@@ -3,7 +3,7 @@
 - I’m currently learning: Testing QA Manual.
 - I’m looking to collaborate on: Security, Technology and Testing.
 - My contact; Gmail: lucasferrando6@gmail.com / Linkedin: https://www.linkedin.com/in/lucas-ferrando-26064a262/
-.
+-
 - Hola! Soy @Lukitas55.
 - Estoy interesado en: Programacion, Asegurador de la calidad, Testing y gestión.
 - Actualmente estoy aprendiendo: Testing QA Manual
